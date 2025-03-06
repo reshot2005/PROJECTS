@@ -1,0 +1,10 @@
+#MadLibs Game
+adj1 = input("Enter an Adjective:")
+noun = input("Enter a noun:")
+adj2 = input("Enter an ADJECTIVE description:")
+verb =  input("Enter a verb with ending 'ing':  ")
+adj3 = input("Enter an Adjectve: ")
+print(f"Tommorow i'm Going to {adj1} Shop")
+print(f"In a Place , i saw a {noun}")
+print(f"{noun} was {adj1} and {verb}")
+print(f" i Was {adj3}")
